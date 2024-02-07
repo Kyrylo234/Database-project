@@ -1,0 +1,15 @@
+Addresses:
+http://scc-student-web.lancs.ac.uk/postupak/Project/index.php
+http://scc-student-web.lancs.ac.uk/postupak/Project/add_row.php
+http://scc-student-web.lancs.ac.uk/postupak/Project/delete_row.php
+http://scc-student-web.lancs.ac.uk/postupak/Project/edit_row.php
+Database name:
+BooksDatabase
+Files used:
+add_row.php
+connect.php
+create_table.php
+delete_row.php
+edit_row.php
+index.php
+styleSheet.css
