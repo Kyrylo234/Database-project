@@ -6,3 +6,6 @@
 
 ##Visuals
 
+<img alt="Screenshot 2024-03-02 at 15 05 54" src="/index.jpeg">
+<img alt="Screenshot 2024-03-02 at 15 05 54" src="/add.jpeg">
+
